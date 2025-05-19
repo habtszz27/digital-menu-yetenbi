@@ -3,11 +3,11 @@ import { useState } from 'react';
 
 const menuData = {
   Foods: [
-    { name: "የስጋ ፉል", price: "120ብር" },
-    { name: "በቅመም ምስር", price: "140ብር" }
+    { name: "ሰጋ ፍርፍር", price: "120ብር" },
+    { name: "በያይነት", price: "140ብር" }
   ],
   Drinks: [
-    { name: "ቢያር", price: "100ብር" },
+    { name: "ቢራ", price: "100ብር" },
     { name: "ዋይን", price: "200ብር" }
   ]
 };
